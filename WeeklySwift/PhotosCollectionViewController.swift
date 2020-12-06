@@ -128,13 +128,7 @@ class PhotosCollectionViewController: UIViewController {
         ])
         
         searchBar.delegate = self
-        
-        
-//        let searchVC = UISearchController(searchResultsController: nil)
-//        navigationItem.searchController = searchVC
-//        searchVC.hidesNavigationBarDuringPresentation = false
-//        searchVC.obscuresBackgroundDuringPresentation = false
-//        searchVC.searchBar.delegate = self
+
     }
 }
 
